@@ -5,4 +5,4 @@
 
 ## Compiling 
 
-Run `meoson setup builddir` to create a build directory, then `meson compile -C builddir` to compile the project. The executable will be in the `builddir` folder.
+Run `meson setup builddir` to create a build directory, then `meson compile -C builddir` to compile the project. The executable will be in the `builddir` folder.
